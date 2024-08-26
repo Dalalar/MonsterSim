@@ -5,4 +5,4 @@ It´s a bit too much in terms of pointers and notations/naming for what it would
 We had to showcase C++ understanding for this project as it was meant for learning. 
 Although not highly advanced, i like it.
 
-Good Day
+Have a good Day
