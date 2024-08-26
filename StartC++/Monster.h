@@ -4,10 +4,12 @@
 #include "Inventory.h"
 
 enum eMonsterStatus : int8_t {
+
 	None = 0,
 	isBleeding
 };
 enum eMonsterTrait : int8_t {
+
 	 Boss = -1,
 	 NoTrait = 0,
 	 Vampire,

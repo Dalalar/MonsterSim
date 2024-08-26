@@ -5,8 +5,6 @@ if (x != nullptr) delete x;         \
 x = nullptr;                         \
 
 
-////////////// Konstanten
-
 const int I_ONE = 1;
 const int I_REROLL_COST = 1;
 const int I_STANDARD_BLEED_AMOUNT = 1;

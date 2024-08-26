@@ -8,6 +8,5 @@ public:
     void PayGold(int count);
 private:
 	int iGoldCount = 0;
-
 };
 
